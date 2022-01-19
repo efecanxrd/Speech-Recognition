@@ -1,0 +1,7 @@
+wave
+pyaudio
+numpy
+python-speech-features
+scikit-learn
+sklearn
+scipy
