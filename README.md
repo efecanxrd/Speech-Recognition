@@ -20,3 +20,7 @@ A program that recognizes the sound of the specified file using models using met
 - ./trainingData : Sound files to be used for modeling are placed here. 
 
 For each audio file, it should be recorded as **VoiceName-Integer/VoiceFile.wav** Example: **Melissa-005/Melissa.wav** | Since the folder name is split, it should be saved like this.
+<h4> You can get information by the link below. You might need to translate the page <h4>
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://efecanxrd.medium.com/mfcc-mel-frequency-cepstral-coefficients-ve-gmm-gaussian-mixture-model-teknikleri-f81a2cc632a5)
+  
